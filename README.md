@@ -1,12 +1,27 @@
-# Java-Music-Player
-Features: 
-🎶 Play an WAV File (Music) 
-🎙 Display Title of the Music 
-👤 Display Artist of the Music 
-⏳ Display Length of the Music 
-⏪ Playback Functionality 
-⏸ Pause Music 
-▶ Resume Music 
-♾️ Loop Music ⏭ Go to the Next Song in a Playlist ⏮ Go to the Previous Song in a Playlist 
-📃 Create a Custom Playlist 
-🔃 Load a Custom Playlist
+# Java Music Player
+
+A simple Java-based music player that allows users to play and manage WAV audio files through a custom playlist.
+
+## 🎵 Features
+
+- 🎵 Play WAV music files
+- 🎤 Display the title of the music
+- 👤 Display the artist of the music
+- ⏳ Display the length of the music
+- ⏪ Previous song
+- ⏸️ Pause music
+- ▶️ Resume music
+- 🔁 Loop music
+- ⏭️ Next song
+- 📜 Create a custom playlist
+- 🔄 Load a custom playlist
+
+## 📂 Project Structure
+
+```text
+Java-Music-Player/
+├── src/
+│   └── musicplayer/
+│       └── MusicPlayer.java
+├── Java Music Player.zip
+└── README.md
