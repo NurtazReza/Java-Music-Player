@@ -16,6 +16,18 @@ A simple Java-based music player that allows users to play and manage WAV audio 
 - 📜 Create a custom playlist
 - 🔄 Load a custom playlist
 
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|---|---|
+| **Java** | Core programming language |
+| **Java Swing** | Building the graphical user interface |
+| **Java AWT** | GUI layouts and components |
+| **Java Sound API** | WAV audio playback and control |
+| **Java I/O** | File and folder handling |
+| **ArrayList** | Playlist management |
+| **Swing Timer** | Tracking and updating playback progress |
+
 ## 📂 Project Structure
 
 ```text
